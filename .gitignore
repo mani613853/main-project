@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+*.pt
+.venv/
+venv/
+map_static/route.json
+map_static/position.json
